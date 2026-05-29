@@ -127,13 +127,14 @@ def qdrant_search(
         except (json.JSONDecodeError, TypeError):
             pass
 
-    search_result = client.search(
+    response = client.query_points(
         collection_name=collection_name,
-        query_vector=query_vector,
+        query=query_vector,
         limit=min(top_k, 50),
         query_filter=parsed_filters,
         with_payload=True,
     )
+    search_result = response.points if response else []
 
     if not search_result:
         return "Ничего не найдено."

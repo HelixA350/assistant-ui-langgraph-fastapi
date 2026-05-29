@@ -138,8 +138,16 @@ export function DocumentPreview({ fileUrl, onClose }: DocumentPreviewProps) {
       <div className="w-full max-w-3xl h-full bg-white shadow-xl flex flex-col animate-slide-in">
         <div className="flex items-center justify-between px-4 py-3 border-b border-gray-200 shrink-0">
           <span className="text-sm font-medium text-gray-700 truncate">
-            {fileUrl.split("/").pop()}
+            {decodeURIComponent(fileUrl.split("/").pop() || "")}
           </span>
+          <a
+            href={fileUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-xs text-blue-500 hover:text-blue-700 underline mr-3 shrink-0"
+          >
+            Скачать
+          </a>
           <button
             onClick={onClose}
             className="ml-2 text-gray-400 hover:text-gray-600 text-xl leading-none"

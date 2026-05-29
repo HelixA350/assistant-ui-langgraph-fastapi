@@ -1,0 +1,338 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+   xmlns:w="urn:schemas-microsoft-com:office:word"
+   xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="ProgId" content="Word.Document">
+<meta name="Generator" content="MsDocGenerator 0.4">
+<meta name="Originator" content="MsDocGenerator 0.4">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<style>
+<!--
+/* Style Definitions */
+@page Section1
+   {size: 595.35pt 841.995pt;
+   mso-page-orientation: portrait;
+   margin: 3cm 2.5cm 3cm 2.5cm;
+   mso-header-margin: 36pt;
+   mso-footer-margin: 36pt;
+   mso-paper-source: 0;}
+div.Section1
+  {page: Section1;}
+
+p.normalText, li.normalText, div.normalText{
+   mso-style-parent: "";
+   margin: 0cm;
+   margin-bottom: 6pt;
+   mso-pagination: widow-orphan;
+   font-size: 12pt;
+   font-family: "Arial";
+   mso-fareast-font-family: "Arial";
+}
+
+table.normalTable{
+   mso-style-name: "Tabela com grade";
+   mso-tstyle-rowband-size: 0;
+   mso-tstyle-colband-size: 0;
+   border-collapse: collapse;
+   mso-border-alt: solid windowtext 0.5pt;
+   mso-yfti-tbllook: 480;
+   mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;
+   mso-border-insideh: 0.5pt solid windowtext;
+   mso-border-insidev: 0.5pt solid windowtext;
+   mso-para-margin: 0cm;
+   mso-para-margin-bottom: .0001pt;
+   mso-pagination: widow-orphan;
+   font-size: 12pt;
+   font-family: "Arial";
+}
+table.normalTable td{
+   border: solid windowtext 1.0pt;
+   border-left: none;
+   mso-border-left-alt: solid windowtext .5pt;
+   mso-border-alt: solid windowtext .5pt;
+   padding: 0cm 5.4pt 0cm 5.4pt;
+}
+
+table.tableWithoutGrid{
+   mso-style-name: "Tabela sem grade";
+   mso-tstyle-rowband-size: 0;
+   mso-tstyle-colband-size: 0;
+   border-collapse: collapse;
+   border: none;
+   mso-border-alt: none;
+   mso-yfti-tbllook: 480;
+   mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;
+   mso-border-insideh: 0.5pt solid windowtext;
+   mso-border-insidev: 0.5pt solid windowtext;
+   mso-para-margin: 0cm;
+   mso-para-margin-bottom: .0001pt;
+   mso-pagination: widow-orphan;
+   font-size: 12pt;
+   font-family: "Arial";
+}
+
+
+-->
+</style>
+</head>
+<body lang="PT-BR" style="tab-interval: 35.4pt">
+<div class="Section1">
+<p class="normalText"><!-- RT_CONTENT --><!-- RT_SECTION NAME=MAIN ORDER=1 POSITION=CONTENT LANDSCAPE=0 -->
+
+<title>Печатная форма</title>
+      
+   
+   
+      <h1 class="centered-up">Запрос цен 1056500003926000002 (ред. №01)</h1>
+<br><div>
+         <table class="pfTable pfTableColumns">
+            <tr>
+               <th width="50%"></th>
+               <th width="50%"></th>
+            </tr>
+            <tr>
+               <td class="pfStrong" colspan="2">Общая информация запроса цен:</td>
+               <td></td>
+            </tr>
+            <tr>
+               <td>
+                  <p class="parameter">Номер запроса</p>
+               </td>
+               <td>
+                  <p class="parameterValue">1056500003926000002</p>
+               </td>
+            </tr>
+            <tr>
+               <td>Статус</td>
+               <td>Размещен</td>
+            </tr>
+            <tr>
+               <td>Наименование и полномочие организации, осуществляющей размещение запроса цен</td>
+               <td>ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ УЧРЕЖДЕНИЕ КУЛЬТУРЫ ПЕРМСКОГО КРАЯ "МЕМОРИАЛЬНЫЙ МУЗЕЙ-ЗАПОВЕДНИК
+                  ИСТОРИИ ПОЛИТИЧЕСКИХ РЕПРЕССИЙ "ПЕРМЬ-36"<br>Заказчик</td>
+            </tr>
+            <tr>
+               <td>
+                  <p class="parameter">Наименование объекта закупки</p>
+               </td>
+               <td>
+                  <p class="parameterValue">ЭКСПЛУАТАЦИОННО-ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ КОТЕЛЬНОЙ</p>
+               </td>
+            </tr>
+<br><tr>
+               <td colspan="2">
+                  <p style="font-style:italic">Проведение данной процедуры сбора информации не влечет за собой возникновения каких-либо
+                     обязательств заказчика.
+                     </p>
+                  <p style="font-style:italic">Из ответа на запрос должны однозначно определяться цена единицы товара, работы, услуги
+                     и общая цена контракта на условиях, указанных в запросе, срок действия предлагаемой
+                     цены, расчет такой цены с целью предупреждения намеренного завышения или занижения
+                     цен товаров, работ, услуг
+                     </p>
+               </td>
+            </tr>
+            <tr>
+               <td class="pfStrong" colspan="2">Место предоставления ценовой информации, контактная информация:</td>
+               <td></td>
+            </tr>
+            <tr>
+               <td>
+                  <p class="parameter">Место предоставления ценовой информации</p>
+               </td>
+               <td>
+                  <p class="parameterValue">eatrapeznikova@perm36.com</p>
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  <p class="parameter">Ответственное должностное лицо, осуществляющее сбор ценовой информации</p>
+               </td>
+               <td>
+                  <p class="parameterValue">Трапезникова Елизавета Александровна</p>
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  <p class="parameter">Адрес электронной почты</p>
+               </td>
+               <td>
+                  <p class="parameterValue">eatrapeznikova@perm36.com</p>
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  <p class="parameter">Номер контактного телефона</p>
+               </td>
+               <td>
+                  <p class="parameterValue">7-342-2141234</p>
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  <p class="parameter">Факс</p>
+               </td>
+               <td>
+                  <p class="parameterValue">Информация отсутствует</p>
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  <p class="parameter">Дополнительная информация</p>
+               </td>
+               <td>
+                  <p class="parameterValue">Информация отсутствует</p>
+               </td>
+            </tr>
+            <tr>
+               <td class="pfStrong" colspan="2">Сроки предоставления ценовой информации:</td>
+               <td></td>
+            </tr>
+            <tr>
+               <td>
+                  <p class="parameter">Дата и время начала предоставления ценовой информации (по местному времени)</p>
+               </td>
+               <td>
+                  <p class="parameterValue">29.05.2026 21:25</p>
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  <p class="parameter">Дата и время окончания предоставления ценовой информации (по местному времени)</p>
+               </td>
+               <td>
+                  <p class="parameterValue">01.06.2026 18:00</p>
+               </td>
+            </tr>
+            <tr>
+               <td>Предполагаемые сроки проведения закупки</td>
+               <td>
+                  <p class="parameterValue">06.2026 - 06.2026</p>
+               </td>
+            </tr>
+            <tr>
+               <td class="pfStrong" colspan="2">Сведения об объекте закупки / сведения о товарах, работах, услугах:</td>
+               <td></td>
+            </tr>
+            <tr>
+               <td>
+                  <p class="parameter">Описание объекта закупки </p>
+               </td>
+               <td>
+                  <p class="parameterValue">ЭКСПЛУАТАЦИОННО-ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ КОТЕЛЬНОЙ</p>
+               </td>
+            </tr>
+         </table>
+<br><br><table class="table font9">
+            <tr>
+               <th rowspan="2">Наименование товара, работы, услуги по КТРУ</th>
+               <th rowspan="2">Код позиции</th>
+               <th colspan="3">Характеристики товара, работы, услуги</th>
+               <th rowspan="2">Единица измерения</th>
+               <th rowspan="2">Количество</th>
+            </tr>
+            <tr class="characteristicsTitle">
+               <th>Наименование</th>
+               <th>Значение</th>
+               <th>Единица измерения</th>
+            </tr>
+            <tr>
+               <td>ЭКСПЛУАТАЦИОННО-ТЕХНИЧЕСКОЕ ОБСЛУЖИВАНИЕ КОТЕЛЬНОЙ</td>
+               <td>43.22.12.140</td>
+               <td colspan="3" class="innerTableHolder">
+                  <table class="ktruTable font9"></table>
+               </td>
+               <td>Месяц</td>
+               <td>7.00000000000</td>
+            </tr>
+         </table>
+<br><br><table class="pfTable pfTableColumns">
+            <tr>
+               <th width="50%"></th>
+               <th width="50%"></th>
+            </tr>
+            <tr>
+               <td>
+                  <p class="parameter">Сведения, определяющие идентичность или однородность товара, работы, услуги</p>
+               </td>
+               <td>
+                  <p class="parameterValue">Информация отсутствует</p>
+               </td>
+            </tr>
+            <tr>
+               <td class="pfStrong" colspan="2">Требования к условиям исполнения контракта:</td>
+               <td></td>
+            </tr>
+            <tr>
+               <td>
+                  <p class="parameter">Основные условия исполнения контракта, заключаемого по результатам закупки</p>
+               </td>
+               <td>
+                  <p class="parameterValue">Информация отсутствует</p>
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  <p class="parameter">Порядок оплаты</p>
+               </td>
+               <td>
+                  <p class="parameterValue">Информация отсутствует</p>
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  <p class="parameter">Размер обеспечения исполнения контракта</p>
+               </td>
+               <td>
+                  <p class="parameterValue">Информация отсутствует</p>
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  <p class="parameter">Требования к гарантийному сроку товара, работы, услуги и (или) объему предоставления
+                     гарантий их качества</p>
+               </td>
+               <td>
+                  <p class="parameterValue">Информация отсутствует</p>
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  <p class="parameter">Требования к порядку поставки товаров, выполнению работ, оказанию услуг </p>
+               </td>
+               <td>
+                  <p class="parameterValue">Информация отсутствует</p>
+               </td>
+            </tr>
+            <tr>
+               <td>
+                  <p class="parameter">Дополнительная информация </p>
+               </td>
+               <td>
+                  <p class="parameterValue">Информация отсутствует</p>
+               </td>
+            </tr>
+            <tr>
+               <td class="pfStrong" colspan="2">Приложения:</td>
+               <td></td>
+            </tr>
+            <tr>
+               <td colspan="2">
+                  <p>1 запроц цен обслуж котельной на 26 г., 27 г.</p>
+               </td>
+            </tr>
+         </table>
+      </div>
+   
+<!-- /RT_SECTION --><!-- /RT_CONTENT --></p>
+</div>
+
+</body>
+</html>
